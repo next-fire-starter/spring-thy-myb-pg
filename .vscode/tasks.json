@@ -1,0 +1,34 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Sample Build",
+            "type": "shell",
+            "command": "./gradlew build"
+        },
+        {
+            "label": "Sample Run",
+            "type": "shell",
+            "command": "./gradlew run",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        },
+        {
+            "label": "Sample Clean",
+            "type": "shell",
+            "command": "./gradlew clean"
+        },
+        {
+            "label": "Sample Check",
+            "type": "shell",
+            "command": "./gradlew check"
+        }, 
+        {
+            "label": "Sample Eclipse",
+            "type": "shell",
+            "command": "./gradlew eclipse"
+        }
+    ]
+}
