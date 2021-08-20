@@ -18,3 +18,6 @@ vscode:
     - vscjava.vscode-java-debug
     - pivotal.vscode-concourse
     - pivotal.vscode-manifest-yaml
+    - vscodevim.vim
+    - leodevbro.blockman
+    - coenraads.bracket-pair-colorizer-2
