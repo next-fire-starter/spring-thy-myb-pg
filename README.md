@@ -1,6 +1,9 @@
 [![GitHub version](https://badge.fury.io/gh/next-fire-starter%2Fnode-express-pg.svg)](https://badge.fury.io/gh/next-fire-starter%2Fspring-thy-pg)
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/next-fire-starter/spring-thy-pg
 )
+[![SpringBoot](https://img.shields.io/badge/SpringBoot-32cd32.svg?longCache=true)](https://spring.io/projects/spring-boot)
+[![Thymeleaf](https://img.shields.io/badge/Thymeleaf-006400.svg?longCache=true)](https://www.thymeleaf.org/index.html)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0000cd.svg?longCache=true)](https://www.postgresql.org/)
 # Java Spring 開発サンプル
 
 * spring boot 
