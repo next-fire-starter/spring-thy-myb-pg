@@ -18,7 +18,7 @@ https://github.com/spring-projects/spring-session/tree/main/spring-session-jdbc/
 
 ## 依存関係の再構築  
 
-demoフォルダは以下で以下のコマンド実行
+demoフォルダ配下で以下のコマンド実行
 ```
 ./gradlew eclipse
 ```
