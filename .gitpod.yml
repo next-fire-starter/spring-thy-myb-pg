@@ -2,8 +2,10 @@
 image:
   file: .gitpod.Dockerfile
 tasks:
-  - init: cd demo && ./gradlew eclipse
-       && psql -f /workspace/spring-thy-pg/DB/create.sql
+  - init: |
+       cd demo 
+       ./gradlew eclipse
+       psql -f /workspace/spring-thy-pg/DB/create.sql
     command: export TZ="Asia/Tokyo"
 
 vscode:
