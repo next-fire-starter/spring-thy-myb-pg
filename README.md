@@ -22,3 +22,10 @@ demoフォルダ配下で以下のコマンド実行
 ```
 ./gradlew eclipse
 ```
+
+## デモの実行
+
+demoフォルダ配下で以下のコマンド実行
+```
+./gradlew bootRun
+```
